@@ -34,14 +34,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:yacine.mehadji@outlook.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/yacinemehadji
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yacine-mehadji/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
