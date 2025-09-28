@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yacine MEHADJI
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Yacine
+last_name: MEHADJI
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ingénieur de recherche en nanotechnologie
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,14 +48,14 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Packaging
+  - Salle blanche
+  - Neuromorphic Computing
+  - Microelectronique
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Systemes Embarques (AI Focus)
+    institution: Grenoble Alpes
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
@@ -70,9 +70,9 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in Systemes Embarques and robotics.
+  - area: BS Electrical Engineering
+    institution: Montpellier University
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
@@ -166,4 +166,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Yacine MEHADJI is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
