@@ -60,8 +60,6 @@ education:
     institution: https://sciences.edu.umontpellier.fr/en/offre-de-formation-de-la-faculte-des-sciences/offre-de-formation-mecanique-electronique-electrotechnique-automatique/master-electronique-electrotechnique-automatique-eea/master-seie-systemes-electroniques-integres-embarques/
     summary: |
       GPA: 4.0/4.0
-
-      Specialized in Systemes Embarques and robotics.
   - area: BS Electrical Engineering
     institution: [Montpellier University](https://eea-fds.edu.umontpellier.fr/licence-eea/)
     summary: |
