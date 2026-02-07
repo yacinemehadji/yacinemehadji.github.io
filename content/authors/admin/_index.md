@@ -67,14 +67,15 @@ education:
     summary: |
       GPA: 3.9/4.0
 work:
-  - position: Senior AI Research Scientist
+   - position: Senior AI Research Scientist
     company_name: CIME Nanotech
     company_url: 'https://cime.grenoble-inp.fr/'
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
     summary: |
-    Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+
     
   - position: AI Research Intern
     company_name: CEA
