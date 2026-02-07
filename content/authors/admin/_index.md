@@ -57,7 +57,8 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: MS Integrated and Embedded Electronics Systems
-    institution: "https://sciences.edu.umontpellier.fr/en/offre-de-formation-de-la-faculte-des-sciences/offre-de-formation-mecanique-electronique-electrotechnique-automatique/master-electronique-electrotechnique-automatique-eea/master-seie-systemes-electroniques-integres-embarques/"
+    institution: "Montpellier University"
+    institution_url: "https://eea-fds.edu.umontpellier.fr/master-eea/"
     date_start: 2024-09-01
     summary: |
       GPA: 4.0/4.0
