@@ -57,11 +57,13 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: MS Integrated and Embedded Electronics Systems
-    institution: https://sciences.edu.umontpellier.fr/en/offre-de-formation-de-la-faculte-des-sciences/offre-de-formation-mecanique-electronique-electrotechnique-automatique/master-electronique-electrotechnique-automatique-eea/master-seie-systemes-electroniques-integres-embarques/
+    institution: "https://sciences.edu.umontpellier.fr/en/offre-de-formation-de-la-faculte-des-sciences/offre-de-formation-mecanique-electronique-electrotechnique-automatique/master-electronique-electrotechnique-automatique-eea/master-seie-systemes-electroniques-integres-embarques/"
+    date_start: 2024-09-01
     summary: |
       GPA: 4.0/4.0
   - area: BS Electrical Engineering
-    institution: [Montpellier University](https://eea-fds.edu.umontpellier.fr/licence-eea/)
+    institution: "Montpellier University"
+    institution_url: "https://eea-fds.edu.umontpellier.fr/licence-eea/"
     summary: |
       GPA: 3.9/4.0
 work:
@@ -71,8 +73,9 @@ work:
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    summary: |
+    Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    
   - position: AI Research Intern
     company_name: CEA
     company_url: 'https://www.spintec.fr/'
