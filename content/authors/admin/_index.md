@@ -66,16 +66,16 @@ education:
       GPA: 3.9/4.0
 work:
   - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+    company_name: CIME Nanotech
+    company_url: 'https://cime.grenoble-inp.fr/'
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    company_name: CEA
+    company_url: 'https://www.spintec.fr/'
     company_logo: ''
     date_start: 2019-06-01
     date_end: 2019-12-31
