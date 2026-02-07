@@ -9,13 +9,6 @@ name_pronunciation: ''
 first_name: Yacine
 last_name: MEHADJI
 
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚀
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -23,12 +16,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ingénieur de recherche en nanotechnologie
+role: Ingénieur de recherche en Microélectronique et Nanotechnologie.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: CIME Nanotech
+    url: https://cime.grenoble-inp.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,34 +45,27 @@ interests:
   - Salle blanche
   - Neuromorphic Computing
   - Microelectronique
+  - Nanotechnologie
 
 education:
-  - area: PhD Systemes Embarques (AI Focus)
+  - area: PhD Microélectronique
     institution: Grenoble Alpes
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2026-09-01
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: MS Integrated and Embedded Electronics Systems
+    institution: https://sciences.edu.umontpellier.fr/en/offre-de-formation-de-la-faculte-des-sciences/offre-de-formation-mecanique-electronique-electrotechnique-automatique/master-electronique-electrotechnique-automatique-eea/master-seie-systemes-electroniques-integres-embarques/
     summary: |
       GPA: 4.0/4.0
 
       Specialized in Systemes Embarques and robotics.
   - area: BS Electrical Engineering
-    institution: Montpellier University
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    institution: [Montpellier University](https://eea-fds.edu.umontpellier.fr/licence-eea/)
     summary: |
       GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
@@ -166,4 +152,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Yacine MEHADJI is an engineer at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Yacine MEHADJI is a research engineer at CIME Nanotech, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
