@@ -1,82 +1,62 @@
 ---
 
-# Display name
-
 title: Yacine MEHADJI
-
-# Name pronunciation (optional)
-
 name_pronunciation: ''
-
-# Full name (for SEO)
-
 first_name: Yacine
 last_name: MEHADJI
 
-# Is this the primary user of the site?
-
 superuser: true
-
-# Highlight the author in author lists? (true/false)
-
 highlight_name: true
 
-# Role/position/tagline
-
 role: Ingénieur en Électronique, Microélectronique et Systèmes Embarqués
-
-# Organizations/Affiliations to display in Biography blox
 
 organizations:
 
 * name: CIME Nanotech, Grenoble INP - UGA
   url: https://cime.grenoble-inp.fr/
 
-# Social network links
-
 profiles:
 
 * icon: at-symbol
   url: 'mailto:yacine[.mehadji@outlook.com](mailto:.mehadji@outlook.com)'
-  label: E-mail Me
-
+  label: E-mail
 * icon: brands/github
-  url: https://github.com/yacinemehadji
+  url: 'https://github.com/yacinemehadji'
   label: GitHub
-
 * icon: brands/linkedin
-  url: https://www.linkedin.com/in/yacine-mehadji/
+  url: 'https://www.linkedin.com/in/yacine-mehadji/'
   label: LinkedIn
 
 interests:
 
 * Microélectronique
-* Électronique et systèmes embarqués
+* Électronique
+* Systèmes embarqués
 * Packaging de circuits intégrés
-* Conception et layout de circuits intégrés
+* Conception de circuits intégrés
 * Calcul neuromorphique
 * Spintronique
+* Intelligence artificielle
 * Deep Learning
 * FPGA et SystemVerilog
 
 education:
 
-* area: Master Électronique, Énergie Électrique, Automatique (EEA)
+* area: Master Électronique, Énergie Électrique, Automatique
   institution: Université de Montpellier
-  date_start: 2020-09-01
-  date_end: 2023-06-30
-  summary: |
-  Parcours Systèmes Électroniques Intégrés et Embarqués (SEIE).
+  date_start: '2020-09-01'
+  date_end: '2023-06-30'
+  summary: Parcours Systèmes Électroniques Intégrés et Embarqués (SEIE).
 
 * area: Licence EEA
   institution: Université de Montpellier
-  date_start: 2017-09-01
-  date_end: 2020-06-30
+  date_start: '2017-09-01'
+  date_end: '2020-06-30'
 
 * area: Classe préparatoire MPSI
   institution: École Supérieure des Sciences Appliquées, Tlemcen
-  date_start: 2015-09-01
-  date_end: 2017-06-30
+  date_start: '2015-09-01'
+  date_end: '2017-06-30'
 
 work:
 
@@ -84,7 +64,7 @@ work:
   company_name: CIME Nanotech, Grenoble INP - UGA
   company_url: https://cime.grenoble-inp.fr/
   company_logo: ''
-  date_start: 2025-09-01
+  date_start: '2025-09-01'
   date_end: ''
   summary: |
   Activités au sein des plateformes technologiques de Packaging et de Prototypage.
@@ -93,7 +73,7 @@ work:
 
   Accompagnement des équipes clientes pour les méthodes de caractérisation électrique et d'observation : station sous pointes, SEM et profilomètre.
 
-  Réalisation et analyse de rapports DRC pour des circuits intégrés sur différentes technologies de fonderie, ainsi que les opérations de layout finishing : intégration des logos, sealring et tiling.
+  Réalisation et analyse de rapports DRC pour des circuits intégrés sur différentes technologies de fonderie, ainsi que des opérations de layout finishing : intégration des logos, sealring et tiling.
 
   Outils : Cadence Allegro, Altium Designer, Cadence Virtuoso, Calibre DRC/LVS, PDK fonderie, Skill/OCEAN, wire bonding et flip-chip.
 
@@ -101,8 +81,8 @@ work:
   company_name: CEA SPINTEC
   company_url: https://www.spintec.fr/
   company_logo: ''
-  date_start: 2024-03-01
-  date_end: 2025-02-28
+  date_start: '2024-03-01'
+  date_end: '2025-02-28'
   summary: |
   Conception et simulation de réseaux de neurones stochastiques bayésiens pour le calcul neuromorphique.
 
@@ -116,24 +96,22 @@ work:
   company_name: EPFL - Groupe BIOROB
   company_url: https://www.epfl.ch/labs/biorob/
   company_logo: ''
-  date_start: 2023-03-01
-  date_end: 2024-02-29
+  date_start: '2023-03-01'
+  date_end: '2024-02-29'
   summary: |
-  Développement d'une stratégie de rééducation par électrostimulation musculaire fonctionnelle (FES) intégrée dans un système embarqué.
+  Développement d'une stratégie de rééducation par électrostimulation musculaire fonctionnelle intégrée dans un système embarqué.
 
   Personnalisation et vérification du firmware d'un électrostimulateur 16 canaux basé sur STM32.
 
-  Développement d'une interface graphique en C++/Qt pour la configuration des protocoles de rééducation.
+  Développement d'une interface graphique en C++ et Qt pour la configuration des protocoles de rééducation.
 
-  Validation matérielle par tests et instrumentation électronique : oscilloscope et générateur de signaux.
+  Validation matérielle par tests et instrumentation électronique avec oscilloscope et générateur de signaux.
 
   Outils : Linux, C, C++, Qt Creator, STM32CubeIDE et MATLAB.
 
-# Skills
-
 skills:
 
-* name: Microélectronique & IC Design
+* name: Microélectronique et IC Design
   items:
 
   * name: Cadence Virtuoso
@@ -156,7 +134,7 @@ skills:
     percent: 85
     icon: cube
 
-* name: Programmation & IA
+* name: Programmation et Intelligence Artificielle
   items:
 
   * name: Python
@@ -174,11 +152,11 @@ skills:
     percent: 80
     icon: code-bracket
 
-* name: FPGA & Systèmes embarqués
+* name: FPGA et Systèmes embarqués
   items:
 
   * name: SystemVerilog / VHDL
-    description: Conception et simulation de systèmes numériques sur FPGA
+    description: Conception de systèmes numériques sur FPGA
     percent: 85
     icon: cpu-chip
 
@@ -203,14 +181,16 @@ languages:
 * name: Arabe
   percent: 100
 
-# Awards
-
 awards: []
 
 ---
 
-Ingénieur en électronique, microélectronique et systèmes embarqués, spécialisé dans la conception et la caractérisation de circuits intégrés, le packaging électronique, le prototypage et les technologies de calcul neuromorphique. Je possède une expérience en environnement de plateforme technologique, en recherche appliquée et en développement de systèmes électroniques.
+Ingénieur en électronique, microélectronique et systèmes embarqués, avec une expérience en recherche appliquée et en plateforme technologique.
 
-Mon parcours combine microélectronique, conception de circuits intégrés, FPGA et systèmes embarqués avec des compétences en intelligence artificielle et Deep Learning. Je m'intéresse particulièrement aux technologies CMOS et Beyond CMOS, à la spintronique et au calcul neuromorphique, ainsi qu'aux applications de l'intelligence artificielle dans les domaines scientifiques et médicaux.
+Mon parcours combine conception de circuits intégrés, layout, vérification physique, packaging électronique, FPGA, systèmes embarqués et intelligence artificielle. Je m'intéresse particulièrement aux technologies CMOS et Beyond CMOS, à la spintronique et au calcul neuromorphique.
 
-Je travaille actuellement en tant qu'Ingénieur de Recherche en Nanotechnologie au CIME Nanotech de Grenoble INP - UGA, où j'interviens notamment sur des activités de packaging de circuits intégrés et de prototypage.
+Je travaille actuellement comme Ingénieur de Recherche en Nanotechnologie au CIME Nanotech de Grenoble INP - UGA, où j'interviens notamment sur des activités de packaging de circuits intégrés et de prototypage.
+
+Mon parcours comprend également une expérience en microélectronique et calcul neuromorphique au CEA SPINTEC, ainsi qu'en systèmes embarqués et instrumentation électronique au sein du groupe BIOROB de l'EPFL.
+
+Je développe également des projets en Deep Learning, notamment dans le domaine de l'analyse d'images médicales, avec Python, TensorFlow, Keras, OpenCV et Streamlit.
