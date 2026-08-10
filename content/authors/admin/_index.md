@@ -20,11 +20,9 @@ profiles:
 * icon: "at-symbol"
   url: "mailto:yacine[.mehadji@outlook.com](mailto:.mehadji@outlook.com)"
   label: "E-mail"
-
 * icon: "brands/github"
   url: "https://github.com/yacinemehadji"
   label: "GitHub"
-
 * icon: "brands/linkedin"
   url: "https://www.linkedin.com/in/yacine-mehadji/"
   label: "LinkedIn"
@@ -44,7 +42,7 @@ interests:
 
 education:
 
-* area: "Master EEA"
+* area: "Master Électronique, Énergie Électrique, Automatique"
   institution: "Université de Montpellier"
   date_start: "2020-09-01"
   date_end: "2023-06-30"
@@ -75,7 +73,7 @@ work:
 
   Conseil sur les méthodes de caractérisation électrique et d'observation : station sous pointes, SEM et profilomètre.
 
-  Rédaction de rapports DRC pour circuits clients et réalisation du layout finishing : logos, sealring et tiling.
+  Rédaction de rapports DRC pour circuits clients et réalisation du layout finishing : intégration des logos, sealring et tiling.
 
   Outils : Cadence Allegro, Altium Designer, Cadence Virtuoso, Calibre DRC/LVS, PDK fonderie, Skill/OCEAN, wire bonding et flip-chip.
 
@@ -88,9 +86,9 @@ work:
   summary: |
   Conception et simulation de réseaux de neurones stochastiques bayésiens pour le calcul neuromorphique.
 
-  Implémentation de modèles CNN avec TensorFlow.
+  Implémentation de modèles CNN avec TensorFlow et entraînement sur des jeux de données complexes.
 
-  Modélisation de circuits spintroniques dans Cadence Virtuoso au niveau transistor.
+  Modélisation de circuits spintroniques dans Cadence Virtuoso au niveau transistor et conception analogique.
 
   Outils : Python, PyTorch, TensorFlow et Cadence Virtuoso.
 
@@ -105,9 +103,9 @@ work:
 
   Personnalisation et vérification du firmware d'un électrostimulateur 16 canaux basé sur STM32.
 
-  Développement d'une interface graphique en C++ et Qt.
+  Développement d'une interface graphique en C++ et Qt pour la configuration des protocoles de rééducation.
 
-  Validation matérielle par tests et instrumentation électronique.
+  Validation matérielle par tests et instrumentation électronique avec oscilloscope et générateur de signaux.
 
   Outils : Linux, C, C++, Qt Creator, STM32CubeIDE et MATLAB.
 
@@ -122,12 +120,12 @@ skills:
     icon: "cpu-chip"
 
   * name: "DRC / LVS / PEX"
-    description: "Vérification physique des circuits intégrés"
+    description: "Vérification physique et extraction de circuits intégrés"
     percent: 85
     icon: "check-badge"
 
   * name: "IC Layout"
-    description: "Layout finishing, sealring et tiling"
+    description: "Layout finishing, sealring, tiling et technologies AMS"
     percent: 85
     icon: "squares-2x2"
 
@@ -140,17 +138,17 @@ skills:
   items:
 
   * name: "Python"
-    description: "Développement scientifique et IA"
+    description: "Développement scientifique et intelligence artificielle"
     percent: 85
     icon: "code-bracket"
 
   * name: "TensorFlow / PyTorch"
-    description: "Deep Learning"
+    description: "Deep Learning et développement de modèles neuronaux"
     percent: 80
     icon: "chart-bar"
 
   * name: "C / C++"
-    description: "Programmation et systèmes embarqués"
+    description: "Programmation système et systèmes embarqués"
     percent: 80
     icon: "code-bracket"
 
@@ -158,17 +156,17 @@ skills:
   items:
 
   * name: "SystemVerilog / VHDL"
-    description: "Conception numérique sur FPGA"
+    description: "Conception de systèmes numériques sur FPGA"
     percent: 85
     icon: "cpu-chip"
 
   * name: "STM32"
-    description: "Firmware et systèmes embarqués"
+    description: "Firmware et développement de systèmes embarqués"
     percent: 80
     icon: "cpu-chip"
 
   * name: "Altium Designer / KiCad"
-    description: "Conception de PCB"
+    description: "Conception de cartes électroniques et PCB"
     percent: 80
     icon: "rectangle-stack"
 
