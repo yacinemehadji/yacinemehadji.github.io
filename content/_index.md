@@ -90,4 +90,24 @@ sections:
         Développement de systèmes embarqués et d'une stratégie de rééducation par électrostimulation musculaire fonctionnelle. Développement firmware STM32 et interface C++/Qt.
     design:
       columns: "1"
+
+  - block: markdown
+    content:
+      title: "Formation"
+      text: |-
+        **Master Électronique, Énergie Électrique, Automatique (EEA)**
+
+        Université de Montpellier — 2020 à 2023.
+
+        Parcours Systèmes Électroniques Intégrés et Embarqués (SEIE).
+
+        **Licence EEA**
+
+        Université de Montpellier — 2017 à 2020.
+
+        **Classe préparatoire MPSI**
+
+        École Supérieure des Sciences Appliquées, Tlemcen, Algérie — 2015 à 2017.
+    design:
+      columns: "1"
 ---
