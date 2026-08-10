@@ -41,4 +41,18 @@ sections:
         Modélisation de circuits Beyond CMOS, réseaux de neurones stochastiques et architectures neuromorphiques.
     design:
       columns: "1"
+    
+- block: collection
+    id: projects
+    content:
+      title: "Projets sélectionnés"
+      subtitle: ""
+      text: "Quelques projets techniques et de recherche."
+      filters:
+        folders:
+          - projects
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
 ---
