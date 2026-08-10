@@ -66,4 +66,28 @@ sections:
         Développement de firmware STM32, interfaces C++/Qt et systèmes électroniques instrumentés.
     design:
       columns: "1"
+
+  - block: markdown
+    content:
+      title: "Expérience professionnelle"
+      text: |-
+        **Ingénieur de Recherche en Nanotechnologie — CIME Nanotech, Grenoble INP - UGA**
+
+        Depuis septembre 2025.
+
+        Activités sur les plateformes de Packaging et de Prototypage : gestion de projets de packaging de circuits intégrés, wire bonding, flip-chip, assemblage sur PCB multicouches, caractérisation électrique, layout finishing et vérification DRC/LVS.
+
+        **Ingénieur d'Études en Microélectronique — CEA SPINTEC**
+
+        Mars 2024 – février 2025.
+
+        Travaux sur le calcul neuromorphique, les réseaux de neurones stochastiques bayésiens et la modélisation de circuits spintroniques. Utilisation de Python, PyTorch, TensorFlow et Cadence Virtuoso.
+
+        **Ingénieur de Recherche en Électronique — EPFL, Groupe BIOROB**
+
+        Mars 2023 – février 2024.
+
+        Développement de systèmes embarqués et d'une stratégie de rééducation par électrostimulation musculaire fonctionnelle. Développement firmware STM32 et interface C++/Qt.
+    design:
+      columns: "1"
 ---
