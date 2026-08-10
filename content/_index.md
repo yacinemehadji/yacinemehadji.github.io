@@ -37,8 +37,7 @@ sections:
     design:
       columns: "1"
 
-    - block: collection
-    id: projects
+      - block: collection
     content:
       title: "Projets sélectionnés"
       text: "Quelques projets techniques et de recherche."
@@ -47,7 +46,11 @@ sections:
           - projects
     design:
       view: article-grid
-      columns: 2
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 
   - block: markdown
     content:
