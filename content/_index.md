@@ -110,4 +110,20 @@ sections:
         École Supérieure des Sciences Appliquées, Tlemcen, Algérie — 2015 à 2017.
     design:
       columns: "1"
+
+  - block: markdown
+    content:
+      title: "Contact"
+      text: |-
+        Vous souhaitez discuter d'un projet de recherche, d'une collaboration ou d'une opportunité professionnelle ?
+
+        Je suis disponible pour échanger autour de l'électronique, de la microélectronique, des systèmes embarqués, du FPGA, du calcul neuromorphique et de l'intelligence artificielle.
+
+        **Email :** yacine.mehadji@outlook.com
+
+        **LinkedIn :** linkedin.com/in/yacine-mehadji/
+
+        **GitHub :** github.com/yacinemehadji
+    design:
+      columns: "1"
 ---
