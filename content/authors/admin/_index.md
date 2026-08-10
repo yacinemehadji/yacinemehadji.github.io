@@ -1,4 +1,4 @@
-
+---
 
 title: "Yacine MEHADJI"
 name_pronunciation: ""
@@ -20,9 +20,11 @@ profiles:
 * icon: "at-symbol"
   url: "mailto:yacine[.mehadji@outlook.com](mailto:.mehadji@outlook.com)"
   label: "E-mail"
+
 * icon: "brands/github"
   url: "https://github.com/yacinemehadji"
   label: "GitHub"
+
 * icon: "brands/linkedin"
   url: "https://www.linkedin.com/in/yacine-mehadji/"
   label: "LinkedIn"
@@ -42,7 +44,7 @@ interests:
 
 education:
 
-* area: "Master Électronique, Énergie Électrique, Automatique"
+* area: "Master EEA"
   institution: "Université de Montpellier"
   date_start: "2020-09-01"
   date_end: "2023-06-30"
@@ -67,13 +69,13 @@ work:
   date_start: "2025-09-01"
   date_end: ""
   summary: |
-  Activités au sein des plateformes technologiques de Packaging et de Prototypage.
+  Gestion de projets de packaging de circuits intégrés.
 
-  Gestion de projets de packaging de circuits intégrés, avec proposition de solutions adaptées telles que le wire bonding, le flip-chip et l'assemblage sur PCB multicouches.
+  Proposition de techniques de packaging adaptées : wire bonding, flip-chip et assemblage sur PCB multicouches.
 
-  Accompagnement des équipes clientes pour les méthodes de caractérisation électrique et d'observation : station sous pointes, SEM et profilomètre.
+  Conseil sur les méthodes de caractérisation électrique et d'observation : station sous pointes, SEM et profilomètre.
 
-  Réalisation et analyse de rapports DRC pour des circuits intégrés sur différentes technologies de fonderie, ainsi que des opérations de layout finishing : intégration des logos, sealring et tiling.
+  Rédaction de rapports DRC pour circuits clients et réalisation du layout finishing : logos, sealring et tiling.
 
   Outils : Cadence Allegro, Altium Designer, Cadence Virtuoso, Calibre DRC/LVS, PDK fonderie, Skill/OCEAN, wire bonding et flip-chip.
 
@@ -86,9 +88,9 @@ work:
   summary: |
   Conception et simulation de réseaux de neurones stochastiques bayésiens pour le calcul neuromorphique.
 
-  Implémentation de modèles CNN avec TensorFlow et entraînement sur des jeux de données complexes.
+  Implémentation de modèles CNN avec TensorFlow.
 
-  Modélisation de circuits spintroniques dans Cadence Virtuoso au niveau transistor et conception analogique.
+  Modélisation de circuits spintroniques dans Cadence Virtuoso au niveau transistor.
 
   Outils : Python, PyTorch, TensorFlow et Cadence Virtuoso.
 
@@ -103,9 +105,9 @@ work:
 
   Personnalisation et vérification du firmware d'un électrostimulateur 16 canaux basé sur STM32.
 
-  Développement d'une interface graphique en C++ et Qt pour la configuration des protocoles de rééducation.
+  Développement d'une interface graphique en C++ et Qt.
 
-  Validation matérielle par tests et instrumentation électronique avec oscilloscope et générateur de signaux.
+  Validation matérielle par tests et instrumentation électronique.
 
   Outils : Linux, C, C++, Qt Creator, STM32CubeIDE et MATLAB.
 
@@ -120,12 +122,12 @@ skills:
     icon: "cpu-chip"
 
   * name: "DRC / LVS / PEX"
-    description: "Vérification physique et extraction de circuits intégrés"
+    description: "Vérification physique des circuits intégrés"
     percent: 85
     icon: "check-badge"
 
   * name: "IC Layout"
-    description: "Layout finishing, sealring, tiling et technologies AMS"
+    description: "Layout finishing, sealring et tiling"
     percent: 85
     icon: "squares-2x2"
 
@@ -138,17 +140,17 @@ skills:
   items:
 
   * name: "Python"
-    description: "Développement scientifique et intelligence artificielle"
+    description: "Développement scientifique et IA"
     percent: 85
     icon: "code-bracket"
 
   * name: "TensorFlow / PyTorch"
-    description: "Deep Learning et développement de modèles neuronaux"
+    description: "Deep Learning"
     percent: 80
     icon: "chart-bar"
 
   * name: "C / C++"
-    description: "Programmation système et systèmes embarqués"
+    description: "Programmation et systèmes embarqués"
     percent: 80
     icon: "code-bracket"
 
@@ -156,17 +158,17 @@ skills:
   items:
 
   * name: "SystemVerilog / VHDL"
-    description: "Conception de systèmes numériques sur FPGA"
+    description: "Conception numérique sur FPGA"
     percent: 85
     icon: "cpu-chip"
 
   * name: "STM32"
-    description: "Firmware et développement de systèmes embarqués"
+    description: "Firmware et systèmes embarqués"
     percent: 80
     icon: "cpu-chip"
 
   * name: "Altium Designer / KiCad"
-    description: "Conception de cartes électroniques et PCB"
+    description: "Conception de PCB"
     percent: 80
     icon: "rectangle-stack"
 
