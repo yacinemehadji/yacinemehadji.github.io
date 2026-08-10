@@ -1,157 +1,216 @@
 ---
+
 # Display name
+
 title: Yacine MEHADJI
 
 # Name pronunciation (optional)
+
 name_pronunciation: ''
 
 # Full name (for SEO)
+
 first_name: Yacine
 last_name: MEHADJI
 
 # Is this the primary user of the site?
+
 superuser: true
 
 # Highlight the author in author lists? (true/false)
+
 highlight_name: true
 
 # Role/position/tagline
-role: Ingénieur de recherche en Microélectronique et Nanotechnologie.
+
+role: Ingénieur en Électronique, Microélectronique et Systèmes Embarqués
 
 # Organizations/Affiliations to display in Biography blox
+
 organizations:
-  - name: CIME Nanotech
-    url: https://cime.grenoble-inp.fr/
+
+* name: CIME Nanotech, Grenoble INP - UGA
+  url: https://cime.grenoble-inp.fr/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
 profiles:
-  - icon: at-symbol
-    url: 'mailto:yacine.mehadji@outlook.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/yacinemehadji
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yacine-mehadji/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+
+* icon: at-symbol
+  url: 'mailto:yacine[.mehadji@outlook.com](mailto:.mehadji@outlook.com)'
+  label: E-mail Me
+
+* icon: brands/github
+  url: https://github.com/yacinemehadji
+  label: GitHub
+
+* icon: brands/linkedin
+  url: https://www.linkedin.com/in/yacine-mehadji/
+  label: LinkedIn
 
 interests:
-  - Packaging
-  - Salle blanche
-  - Neuromorphic Computing
-  - Microelectronique
-  - Nanotechnologie
+
+* Microélectronique
+* Électronique et systèmes embarqués
+* Packaging de circuits intégrés
+* Conception et layout de circuits intégrés
+* Calcul neuromorphique
+* Spintronique
+* Deep Learning
+* FPGA et SystemVerilog
 
 education:
-  - area: PhD Microélectronique
-    institution: Grenoble Alpes
-    date_start: 2026-09-01
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Integrated and Embedded Electronics Systems
-    institution: "Montpellier University"
-    institution_url: "https://eea-fds.edu.umontpellier.fr/master-eea/"
-    date_start: 2024-09-01
-    summary: |
-      GPA: 4.0/4.0
-  - area: BS Electrical Engineering
-    institution: "Montpellier University"
-    institution_url: "https://eea-fds.edu.umontpellier.fr/licence-eea/"
-    summary: |
-      GPA: 3.9/4.0
-work:
-  - position: Senior AI Research Scientist
-    company_name: CIME Nanotech
-    company_url: 'https://cime.grenoble-inp.fr/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
 
-  - position: AI Research Intern
-    company_name: CEA
-    company_url: 'https://www.spintec.fr/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+* area: Master Électronique, Énergie Électrique, Automatique (EEA)
+  institution: Université de Montpellier
+  date_start: 2020-09-01
+  date_end: 2023-06-30
+  summary: |
+  Parcours Systèmes Électroniques Intégrés et Embarqués (SEIE).
+
+* area: Licence EEA
+  institution: Université de Montpellier
+  date_start: 2017-09-01
+  date_end: 2020-06-30
+
+* area: Classe préparatoire MPSI
+  institution: École Supérieure des Sciences Appliquées, Tlemcen
+  date_start: 2015-09-01
+  date_end: 2017-06-30
+
+work:
+
+* position: Ingénieur de Recherche en Nanotechnologie
+  company_name: CIME Nanotech, Grenoble INP - UGA
+  company_url: https://cime.grenoble-inp.fr/
+  company_logo: ''
+  date_start: 2025-09-01
+  date_end: ''
+  summary: |
+  Activités au sein des plateformes technologiques de Packaging et de Prototypage.
+
+  Gestion de projets de packaging de circuits intégrés, avec proposition de solutions adaptées telles que le wire bonding, le flip-chip et l'assemblage sur PCB multicouches.
+
+  Accompagnement des équipes clientes pour les méthodes de caractérisation électrique et d'observation : station sous pointes, SEM et profilomètre.
+
+  Réalisation et analyse de rapports DRC pour des circuits intégrés sur différentes technologies de fonderie, ainsi que les opérations de layout finishing : intégration des logos, sealring et tiling.
+
+  Outils : Cadence Allegro, Altium Designer, Cadence Virtuoso, Calibre DRC/LVS, PDK fonderie, Skill/OCEAN, wire bonding et flip-chip.
+
+* position: Ingénieur d'Études en Microélectronique
+  company_name: CEA SPINTEC
+  company_url: https://www.spintec.fr/
+  company_logo: ''
+  date_start: 2024-03-01
+  date_end: 2025-02-28
+  summary: |
+  Conception et simulation de réseaux de neurones stochastiques bayésiens pour le calcul neuromorphique.
+
+  Implémentation de modèles CNN avec TensorFlow et entraînement sur des jeux de données complexes.
+
+  Modélisation de circuits spintroniques dans Cadence Virtuoso au niveau transistor et conception analogique.
+
+  Outils : Python, PyTorch, TensorFlow et Cadence Virtuoso.
+
+* position: Ingénieur de Recherche en Électronique
+  company_name: EPFL - Groupe BIOROB
+  company_url: https://www.epfl.ch/labs/biorob/
+  company_logo: ''
+  date_start: 2023-03-01
+  date_end: 2024-02-29
+  summary: |
+  Développement d'une stratégie de rééducation par électrostimulation musculaire fonctionnelle (FES) intégrée dans un système embarqué.
+
+  Personnalisation et vérification du firmware d'un électrostimulateur 16 canaux basé sur STM32.
+
+  Développement d'une interface graphique en C++/Qt pour la configuration des protocoles de rééducation.
+
+  Validation matérielle par tests et instrumentation électronique : oscilloscope et générateur de signaux.
+
+  Outils : Linux, C, C++, Qt Creator, STM32CubeIDE et MATLAB.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+
+* name: Microélectronique & IC Design
+  items:
+
+  * name: Cadence Virtuoso
+    description: Conception et simulation de circuits intégrés
+    percent: 85
+    icon: cpu-chip
+
+  * name: DRC / LVS / PEX
+    description: Vérification physique et extraction de circuits intégrés
+    percent: 85
+    icon: check-badge
+
+  * name: IC Layout
+    description: Layout finishing, sealring, tiling et technologies AMS
+    percent: 85
+    icon: squares-2x2
+
+  * name: Packaging
+    description: Wire bonding, flip-chip et assemblage PCB
+    percent: 85
+    icon: cube
+
+* name: Programmation & IA
+  items:
+
+  * name: Python
+    description: Développement scientifique et intelligence artificielle
+    percent: 85
+    icon: code-bracket
+
+  * name: TensorFlow / PyTorch
+    description: Deep Learning et développement de modèles neuronaux
+    percent: 80
+    icon: chart-bar
+
+  * name: C / C++
+    description: Programmation système et systèmes embarqués
+    percent: 80
+    icon: code-bracket
+
+* name: FPGA & Systèmes embarqués
+  items:
+
+  * name: SystemVerilog / VHDL
+    description: Conception et simulation de systèmes numériques sur FPGA
+    percent: 85
+    icon: cpu-chip
+
+  * name: STM32
+    description: Firmware et développement de systèmes embarqués
+    percent: 80
+    icon: cpu-chip
+
+  * name: Altium Designer / KiCad
+    description: Conception de cartes électroniques et PCB
+    percent: 80
+    icon: rectangle-stack
 
 languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+* name: Français
+  percent: 90
+
+* name: Anglais
+  percent: 85
+
+* name: Arabe
+  percent: 100
+
+# Awards
+
+awards: []
+
 ---
 
-Yacine MEHADJI is a research engineer at CIME Nanotech, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Ingénieur en électronique, microélectronique et systèmes embarqués, spécialisé dans la conception et la caractérisation de circuits intégrés, le packaging électronique, le prototypage et les technologies de calcul neuromorphique. Je possède une expérience en environnement de plateforme technologique, en recherche appliquée et en développement de systèmes électroniques.
+
+Mon parcours combine microélectronique, conception de circuits intégrés, FPGA et systèmes embarqués avec des compétences en intelligence artificielle et Deep Learning. Je m'intéresse particulièrement aux technologies CMOS et Beyond CMOS, à la spintronique et au calcul neuromorphique, ainsi qu'aux applications de l'intelligence artificielle dans les domaines scientifiques et médicaux.
+
+Je travaille actuellement en tant qu'Ingénieur de Recherche en Nanotechnologie au CIME Nanotech de Grenoble INP - UGA, où j'interviens notamment sur des activités de packaging de circuits intégrés et de prototypage.
