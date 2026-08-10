@@ -36,4 +36,34 @@ sections:
         Modélisation de circuits Beyond CMOS, réseaux de neurones stochastiques et architectures neuromorphiques.
     design:
       columns: "1"
+
+  - block: markdown
+    content:
+      title: "Projets sélectionnés"
+      text: |-
+        **Plateforme d'aide au diagnostic médical par Deep Learning**
+
+        Développement d'une plateforme basée sur l'intelligence artificielle pour l'analyse de radiographies thoraciques. Utilisation de Python, TensorFlow/Keras, OpenCV, Grad-CAM et Streamlit.
+
+        **Calcul neuromorphique et Beyond CMOS**
+
+        Modélisation et étude de circuits et architectures destinés au calcul neuromorphique, avec utilisation de SPICE, TCAD et MATLAB.
+
+        **Conception FPGA et SystemVerilog**
+
+        Développement de systèmes numériques sur FPGA, notamment un contrôleur VGA en SystemVerilog et des architectures numériques en VHDL.
+
+        **Deep FIFO sur FPGA**
+
+        Conception d'une FIFO à latence déterministe utilisant VHDL, BRAM, AXI et Vivado.
+
+        **Architecture tolérante aux fautes sur FPGA**
+
+        Conception d'une architecture hybride basée sur la Triple Modular Redundancy (TMR) pour améliorer la tolérance aux fautes.
+
+        **Systèmes embarqués et électronique**
+
+        Développement de firmware STM32, interfaces C++/Qt et systèmes électroniques instrumentés.
+    design:
+      columns: "1"
 ---
