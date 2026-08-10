@@ -1,24 +1,6 @@
 ---
-
 title: "Plateforme d'aide au diagnostic médical par Deep Learning"
 date: 2025-06-01
-
-links:
-
-* type: site
-  url: "https://github.com/yacinemehadji"
-  name: "GitHub"
-
-tags:
-
-* Deep Learning
-* Python
-* TensorFlow
-* Keras
-* Computer Vision
-* Medical Imaging
-* Streamlit
-
 ---
 
 Développement d'une plateforme d'aide au diagnostic médical basée sur le Deep Learning pour l'analyse de radiographies thoraciques.
