@@ -10,7 +10,6 @@ tags:
   - Python
 featured: true
 ---
-
 ## Overview
 
 Development of a Deep Learning-based platform for the analysis of chest X-ray images and the detection of suspicious pulmonary abnormalities.
