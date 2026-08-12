@@ -1,14 +1,73 @@
 ---
-title: "Plateforme d'aide au diagnostic médical par Deep Learning"
-date: 2025-06-01
+title: "Medical AI — Chest X-Ray Analysis"
+
+summary: "Development of a Deep Learning platform for medical image analysis and detection of pulmonary abnormalities in chest X-rays."
+
+date: 2026-01-01
+
+tags:
+  - Deep Learning
+  - Medical Imaging
+  - Computer Vision
+  - TensorFlow
+  - Python
+
+featured: true
+
+image:
+  caption: "Deep Learning for chest X-ray analysis"
+  focal_point: Center
 ---
 
-Développement d'une plateforme d'aide au diagnostic médical basée sur le Deep Learning pour l'analyse de radiographies thoraciques.
+## Overview
 
-Le projet vise à développer des modèles d'intelligence artificielle capables d'analyser des images médicales et d'identifier des anomalies pulmonaires.
+Development of a Deep Learning-based platform for the analysis of chest X-ray images and the detection of suspicious pulmonary abnormalities.
 
-Le pipeline comprend la préparation et le prétraitement des données, l'entraînement de modèles de Deep Learning, leur évaluation et l'interprétation des prédictions.
+The objective of this project is to develop artificial intelligence models capable of assisting medical image analysis by automatically identifying patterns associated with different pulmonary conditions.
 
-Technologies utilisées : Python, TensorFlow, Keras, OpenCV, Grad-CAM et Streamlit.
+## Methodology
 
-Le projet explore également l'intégration de plusieurs jeux de données médicaux afin d'étendre progressivement les capacités du système à différentes pathologies et applications d'imagerie médicale.
+The project follows a complete medical imaging and Deep Learning pipeline:
+
+1. Data collection and organization
+2. Image preprocessing and normalization
+3. Dataset preparation and augmentation
+4. Convolutional Neural Network training
+5. Model evaluation
+6. Prediction analysis and visualization
+7. Development of an interactive interface
+
+The project is designed to progressively integrate multiple medical datasets and extend the system to different pathologies and imaging applications.
+
+## Technologies
+
+- **Python**
+- **TensorFlow**
+- **Keras**
+- **OpenCV**
+- **CNN**
+- **Grad-CAM**
+- **Streamlit**
+
+## Medical datasets
+
+The project explores several publicly available medical imaging datasets, including chest X-ray datasets for pneumonia and other pulmonary conditions, as well as datasets dedicated to lung nodule analysis.
+
+## Explainable AI
+
+Grad-CAM is used to visualize the regions of the X-ray that contribute most strongly to the model's prediction.
+
+This provides an interpretable representation of the model's decision and helps investigate whether predictions are based on clinically relevant image regions.
+
+## Future developments
+
+Future developments include:
+
+- Extension to additional pulmonary diseases
+- Lung nodule detection
+- Image segmentation
+- Integration of larger medical imaging datasets
+- Improved model evaluation and explainability
+- Deployment through a professional web interface
+
+> **Note:** This project is intended for research and educational purposes and is not a clinical diagnostic tool.
