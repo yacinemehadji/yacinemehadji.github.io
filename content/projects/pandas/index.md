@@ -1,8 +1,13 @@
 ---
-title: "Medical AI — Chest X-Ray Analysis"
+title: "Medical AI - Chest X-Ray Analysis"
 summary: "Development of a Deep Learning platform for medical image analysis and detection of pulmonary abnormalities in chest X-rays."
 date: 2026-01-01
-tags: ["Deep Learning", "Medical Imaging", "Computer Vision", "TensorFlow", "Python"]
+tags:
+  - Deep Learning
+  - Medical Imaging
+  - Computer Vision
+  - TensorFlow
+  - Python
 featured: true
 ---
 
