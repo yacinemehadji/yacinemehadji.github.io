@@ -100,7 +100,7 @@ The interface can provide:
 Future developments include:
 
 * Extension to additional pulmonary diseases
-* Transfer learning with architectures such as MobileNetV2 and EfficientNet
+* Transfer learning with MobileNetV2 and EfficientNet
 * Lung and lesion segmentation
 * Pulmonary nodule detection
 * Integration of LIDC-IDRI and LUNA16
