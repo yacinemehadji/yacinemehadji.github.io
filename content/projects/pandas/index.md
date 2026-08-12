@@ -1,17 +1,9 @@
 ---
-
 title: "Medical AI — Chest X-Ray Analysis"
 summary: "Development of a Deep Learning platform for medical image analysis and detection of pulmonary abnormalities in chest X-rays."
 date: 2026-01-01
-tags:
-
-* Deep Learning
-* Medical Imaging
-* Computer Vision
-* TensorFlow
-* Python
-  featured: true
-
+tags: ["Deep Learning", "Medical Imaging", "Computer Vision", "TensorFlow", "Python"]
+featured: true
 ---
 
 ## Overview
@@ -36,13 +28,13 @@ The project is designed to progressively integrate multiple medical datasets and
 
 ## Technologies
 
-* **Python**
-* **TensorFlow**
-* **Keras**
-* **OpenCV**
-* **CNN**
-* **Grad-CAM**
-* **Streamlit**
+- **Python**
+- **TensorFlow**
+- **Keras**
+- **OpenCV**
+- **CNN**
+- **Grad-CAM**
+- **Streamlit**
 
 ## Medical Datasets
 
@@ -58,11 +50,11 @@ This provides an interpretable representation of the model's decision and helps 
 
 Future developments include:
 
-* Extension to additional pulmonary diseases
-* Lung nodule detection
-* Image segmentation
-* Integration of larger medical imaging datasets
-* Improved model evaluation and explainability
-* Deployment through a professional web interface
+- Extension to additional pulmonary diseases
+- Lung nodule detection
+- Image segmentation
+- Integration of larger medical imaging datasets
+- Improved model evaluation and explainability
+- Deployment through a professional web interface
 
 > **Note:** This project is intended for research and educational purposes and is not a clinical diagnostic tool.
