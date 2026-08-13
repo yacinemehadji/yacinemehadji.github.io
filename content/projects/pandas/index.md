@@ -29,8 +29,6 @@ The project follows a complete medical imaging and Deep Learning pipeline:
 6. Prediction analysis and visualization
 7. Development of an interactive interface
 
-The project is designed to progressively integrate multiple medical datasets and extend the system to different pathologies and imaging applications.
-
 ## Technologies
 
 - **Python**
@@ -43,13 +41,11 @@ The project is designed to progressively integrate multiple medical datasets and
 
 ## Medical Datasets
 
-The project explores several publicly available medical imaging datasets, including chest X-ray datasets for pneumonia and other pulmonary conditions, as well as datasets dedicated to lung nodule analysis.
+The project explores several publicly available medical imaging datasets, including chest X-ray datasets for pneumonia and other pulmonary conditions.
 
 ## Explainable AI
 
 Grad-CAM is used to visualize the regions of the X-ray that contribute most strongly to the model's prediction.
-
-This provides an interpretable representation of the model's decision and helps investigate whether predictions are based on clinically relevant image regions.
 
 ## Future Developments
 
