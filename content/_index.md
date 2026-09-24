@@ -4,7 +4,6 @@ date: 2026-09-24
 type: landing
 
 sections:
-
   - block: markdown
     content:
       title: "Yacine MEHADJI"
