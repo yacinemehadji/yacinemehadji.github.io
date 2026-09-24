@@ -14,24 +14,6 @@ sections:
       date_format: "January 2006"
       is_education_first: false
 
-  - block: markdown
-    content:
-      title: "Formation"
-      text: |
-        ### Master Électronique, Énergie Électrique, Automatique (EEA)
-        **Université de Montpellier**  
-        2020 – 2023
-
-        Parcours **Systèmes Électroniques Intégrés et Embarqués (SEIE)**.
-
-        ### Licence Électronique, Énergie Électrique, Automatique (EEA)
-        **Université de Montpellier**  
-        2017 – 2020
-
-        ### Classe préparatoire MPSI
-        **École Supérieure des Sciences Appliquées, Tlemcen, Algérie**  
-        2015 – 2017
-
   - block: resume-skills
     content:
       title: "Compétences"
