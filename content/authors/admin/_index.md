@@ -50,20 +50,17 @@ skills:
         description: "Analyse d'images médicales et Computer Vision"
         
 education:
-  - area: "Master Électronique, Énergie Électrique, Automatique (EEA)"
+  - course: "Master Électronique, Énergie Électrique, Automatique (EEA)"
     institution: "Université de Montpellier"
-    date_start: "2020"
-    date_end: "2023"
+    year: "2020 – 2023"
 
-  - area: "Licence Électronique, Énergie Électrique, Automatique (EEA)"
+  - course: "Licence Électronique, Énergie Électrique, Automatique (EEA)"
     institution: "Université de Montpellier"
-    date_start: "2017"
-    date_end: "2020"
+    year: "2017 – 2020"
 
-  - area: "Classe préparatoire MPSI"
+  - course: "Classe préparatoire MPSI"
     institution: "École Supérieure des Sciences Appliquées, Tlemcen, Algérie"
-    date_start: "2015"
-    date_end: "2017"
+    year: "2015 – 2017"
     
 languages:
   - name: "Français"
