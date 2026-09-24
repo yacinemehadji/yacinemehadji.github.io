@@ -10,9 +10,9 @@ bio: |
   Je m'intéresse également au Deep Learning, à l'intelligence artificielle appliquée à l'imagerie médicale et au calcul neuromorphique.
 
 work:
-  - position: "Ingénieur de recherche – Plateforme Packaging"
-    company_name: "CIME Nanotech"
-    company_url: "https://cime.grenoble-inp.fr/"
+  - role: "Ingénieur de recherche – Plateforme Packaging"
+    org: "CIME Nanotech"
+    org_url: "https://cime.grenoble-inp.fr/"
     date_start: "2025-09-01"
     date_end: "2026-09-22"
     summary: |
@@ -24,7 +24,7 @@ work:
       - Participation aux procédés de gravure et aux étapes technologiques associées.
       - Contribution aux opérations de caractérisation et de contrôle des structures fabriquées.
       - Collaboration avec les équipes de recherche et les utilisateurs de la plateforme.
-
+    
 skills:
   - name: "Microélectronique"
     items:
