@@ -48,6 +48,23 @@ skills:
         description: "TensorFlow, Keras et réseaux de neurones convolutifs"
       - name: "Medical AI"
         description: "Analyse d'images médicales et Computer Vision"
+        
+education:
+  - degree: "Master Électronique, Énergie Électrique, Automatique (EEA)"
+    institution: "Université de Montpellier"
+    date_start: "2020"
+    date_end: "2023"
+    summary: "Parcours Systèmes Électroniques Intégrés et Embarqués (SEIE)."
+
+  - degree: "Licence Électronique, Énergie Électrique, Automatique (EEA)"
+    institution: "Université de Montpellier"
+    date_start: "2017"
+    date_end: "2020"
+
+  - degree: "Classe préparatoire MPSI"
+    institution: "École Supérieure des Sciences Appliquées, Tlemcen, Algérie"
+    date_start: "2015"
+    date_end: "2017"
 
 languages:
   - name: "Français"
